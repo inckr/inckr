@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/inckr](https://github.com/inckr)
 
-- 💬 Ask me about **React, Html,Javascript,Css**
+- 💬 Ask me about **React, Html,Javascript,Css,C#**
 
 - 📫 How to reach me **ahmetincekaraa@gmail.com**
 
